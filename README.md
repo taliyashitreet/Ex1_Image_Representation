@@ -5,9 +5,9 @@ In this repository you will find an image processing like:
 1. repressentation of RGB or Gray Scale image
 2. filter : Histogram equality
 3. filter : Quantize Image <br />
- from this image:
+ from this image: <br />
 ![image](https://user-images.githubusercontent.com/77111035/160813638-4d64aa55-753e-4477-968d-829fc316aee9.png) <br />
-to this :
+to this : <br />
 ![image](https://user-images.githubusercontent.com/77111035/160813676-e70c10f6-84ba-419c-ab88-fca005522dc3.png) <br />
 
 4. filter : Gamma correction on GUI 
