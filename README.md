@@ -6,4 +6,4 @@ In this repository you will find an image processing like:
 2. filter : Histogram equality
 3. filter : Quantize Image
 4. filter : Gamma correction on GUI 
-5. <img width="452" alt="image" src="https://user-images.githubusercontent.com/77111035/160812796-c027613c-28e4-4789-90c5-47a359f5d275.png">
+ <img width="452" alt="image" src="https://user-images.githubusercontent.com/77111035/160812796-c027613c-28e4-4789-90c5-47a359f5d275.png">
