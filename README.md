@@ -4,7 +4,7 @@ In this repository you will find an image processing like:
 
 1. repressentation of RGB or Gray Scale image
 2. filter : Histogram equality
-3. filter : Quantize Image<br />
+3. filter : Quantize Image <br />
  from this image:
 ![image](https://user-images.githubusercontent.com/77111035/160813638-4d64aa55-753e-4477-968d-829fc316aee9.png) <br />
 to this :
