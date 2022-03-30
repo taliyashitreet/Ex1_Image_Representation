@@ -1,5 +1,5 @@
 # Ex1_Image_Representation
-this exercise belong to image processing Course under the Artificial Intelligence track.
+this exercise belong to image processing Course under the Artificial Intelligence track.<br />
 In this repository you will find an image processing like:
 
 1. repressentation of RGB or Gray Scale image
